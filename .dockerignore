@@ -10,7 +10,6 @@
 /private
 **/.git
 **/.gitignore
-**/docker-compose*
 **/[Dd]ockerfile*
 LICENSE
 README.md
@@ -24,7 +23,6 @@ app.json
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
 CNAME
-install.sh
 SECURITY.md
 tsconfig.json
 .env
